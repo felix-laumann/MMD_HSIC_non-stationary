@@ -6,6 +6,6 @@
 4. dHSIC [(Pfister et al. 2016)](https://arxiv.org/pdf/1603.00285.pdf)
 
 # TBA
-5. HSIC with circular block bootstrap
-6. lag-HSIC 
+5. HSIC for non-stationary data
+6. lag-HSIC for non-stationary data
 7. lag-dHSIC
