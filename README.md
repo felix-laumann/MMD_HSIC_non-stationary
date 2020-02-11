@@ -1,4 +1,4 @@
-# MMD and HSIC for functions
+# MMD and HSIC for functional data
 
 ## MMD
 - biased MMD [(Gretton et al. 2007)](http://www.gatsby.ucl.ac.uk/~gretton/papers/GreBorRasSchSmo07.pdf)
