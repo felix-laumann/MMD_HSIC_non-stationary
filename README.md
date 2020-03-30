@@ -1,8 +1,6 @@
-# MMD and HSIC for functional data
+# MMD and HSIC for weakly dependent data
 
 ## MMD
-- biased MMD [(Gretton et al. 2007)](http://www.gatsby.ucl.ac.uk/~gretton/papers/GreBorRasSchSmo07.pdf)
-- unbiased MMD [(Gretton et al. 2007)](http://www.gatsby.ucl.ac.uk/~gretton/papers/GreBorRasSchSmo07.pdf)
 - MMD with permutation approximation of null hypothesis [(Gretton et al. 2012)](http://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf)
 - MMD with Gamma approximation of null hypothesis [(Gretton et al. 2012)](http://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf)
 
